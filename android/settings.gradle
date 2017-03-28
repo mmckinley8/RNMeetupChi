@@ -1,0 +1,3 @@
+rootProject.name = 'RNMeetupChi'
+
+include ':app'
