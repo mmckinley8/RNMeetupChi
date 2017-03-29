@@ -7,7 +7,7 @@ class Profile extends Component {
 
     return (
       <View style={styles.container}>
-        <TouchableOpacity onPress={() => navigate('Friends', {friends: ['Anthony', 'Chelsie', 'Christina'], user: 'Joe', id: 14})}>
+        <TouchableOpacity>
           <View style={styles.button}>
             <Text style={styles.text}>View friends</Text>
           </View>
