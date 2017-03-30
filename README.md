@@ -3,25 +3,14 @@
 ## Prerequisites
 * react-native must have react-native installed
 * must have android virtual device and xcode installed
+* clone repo
 
 ## Steps not shown
-```shell
-react-native init RNMeetupChi
-
-cd RNMeetupChi
-
-react-native run-ios || react-native run-android
-
-yarn add react-navigation || npm install react-navigation
-
-yarn add react-native-vector-icons
-```
-* follow instructions on their github:
-https://github.com/oblador/react-native-vector-icons
-
-```shell
-react-native link
-```
+* `react-native init RNMeetupChi`
+* `cd RNMeetupChi` 
+* `yarn add react-navigation || npm install react-navigation`
+* `yarn add react-native-vector-icons || npm install react-native-vector-icons` optional - see their github for further instructions: https://github.com/oblador/react-native-vector-icons
+* `react-native link` - for icons
 
 * created app.js, home.js, and profile.js files
 
