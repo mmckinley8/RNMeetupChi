@@ -1,7 +1,7 @@
 # RNMeetupChi
 
 ## Prerequisites
-* react-native must have react-native installed
+* must have react-native installed
 * must have android virtual device and xcode installed
 * clone repo
 
